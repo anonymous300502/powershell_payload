@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/badge/PowerShell-%E2%89%A5%20v3.0-blue">
+<img src="https://img.shields.io/badge/Developed%20on-kali%20linux-blueviolet">
 
 # INSTRUCTIONS : - 
 <br>
