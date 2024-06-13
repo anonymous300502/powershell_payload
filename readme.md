@@ -24,7 +24,7 @@ Please dont upload the script on virus total :)
 <br>
 ## Spawned Connection without alerting Windows Defender -
 <br>
-<img scr="https://github.com/anonymous300502/powershell_payload/blob/main/spawned_interactive_shell.png.png">
+<img scr="spawned_interactive_shell.png.png">
 <br>
 ## Victim Pc - 
 <br>
